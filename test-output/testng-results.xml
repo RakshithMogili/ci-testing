@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42861" started-at="2019-03-29T12:03:41Z" finished-at="2019-03-29T12:04:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42861" started-at="2019-03-29T12:03:41Z" finished-at="2019-03-29T12:04:24Z">
+      <class name="org.castiron.testing.castiron_testing.CIScreenGrab">
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:org.castiron.testing.castiron_testing.CIScreenGrab@e580929]" name="TestMethod" duration-ms="42834" started-at="2019-03-29T17:33:41Z" finished-at="2019-03-29T17:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+      </class> <!-- org.castiron.testing.castiron_testing.CIScreenGrab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
